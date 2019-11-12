@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * 区域信息
- * @author xiangze
+ * @author anthony1314
  *
  */
 public class Area {
